@@ -1,0 +1,6 @@
+{
+  "name": "A Little Place I Made for You",
+  "description": "A private, handcrafted interactive digital love letter made with care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
